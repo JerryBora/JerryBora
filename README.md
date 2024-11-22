@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jetananda Bora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br>
+👋 Hi, I’m Jetananda Bora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br> :smile_cat: Fun Fact: I love cats a lot!
 
 
 ## 🌐 Socials:
