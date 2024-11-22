@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JerryBora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br>
+👋 Hi, I’m Jetananda Bora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br>
 
 
 ## 🌐 Socials:
