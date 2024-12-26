@@ -2,7 +2,7 @@
 👋 Hi, I’m Jetananda Bora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br> :smile_cat: Fun Fact: I love cats a lot!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/404_weeb_trash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerrybora404)
 
 # 💻 Tech Stack:
