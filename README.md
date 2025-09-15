@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Jetananda Bora<br>👀 I’m interested in Web Development, Machine Learning and Python projects<br> :smile_cat: Fun Fact: I love cats a lot!
-
+Hi, I'm Jetananda Bora, a recent Computer Science graduate specializing in full-stack web development and Python.
+<br>I am proficient across the JavaScript ecosystem (React, Next.js, Node.js) and also have a keen interest in UI/UX design with Figma. I am currently seeking new opportunities as a Software Engineer.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404_weeb_trash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jetananda)
